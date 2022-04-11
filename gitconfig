@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = l.pinot@protonmail.com
+	name = Louis PINOT
